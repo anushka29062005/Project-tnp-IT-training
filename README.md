@@ -1,7 +1,7 @@
 Smart Expense Tracker
 ---------------------
 A simple command-line application to record daily expenses, categorize them, view summaries, and export reports.
-It is built using Python, SQLite (DBMS), OOP, and file handling — perfect for beginners and minor projects.
+It is built using Python, SQLite (DBMS), OOP, and file handling.
 ---------------------
 Features:
 1.Add expenses with category, amount, date, and notes
